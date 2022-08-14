@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\andre\Escritorio\ComplexNumbersCalculator\includes\ComplexNumberPolar.h(121,97): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\andre\Escritorio\ComplexNumbersCalculator\includes\ComplexNumberPolar.h(132,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\andre\Escritorio\ComplexNumbersCalculator\includes\ComplexNumberPolar.h(143,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\andre\Escritorio\ComplexNumbersCalculator\includes\ComplexNumberPolar.h(158,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  ComplexNumbersCalculator.vcxproj -> C:\Users\andre\Escritorio\ComplexNumbersCalculator\x64\Debug\ComplexNumbersCalculator.exe
