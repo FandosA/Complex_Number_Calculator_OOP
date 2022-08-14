@@ -1,2 +1,2 @@
-# Complex_Number_Calculator_OOP
-Complex number calculator implemented in C++ based on objects.
+# Complex number calculator
+This is a complex number calculator implemented in C++ based on objects. It is possible to work with objects that represent complex numbers both in binary form or in polar form. Each operation (addition, subtraction, multiplication, power) can be used in different ways, see the implementations in the files inside the ``src/`` and ``include/`` folders. In the file ``main.cpp`` there is an example of adding two complex numbers, both in binary and in polar form.
