@@ -205,7 +205,7 @@ void ComplexNumberPolar::multiplyComplexNumbers_(ComplexNumberPolar complexNumbe
 
 ComplexNumberPolar ComplexNumberPolar::divideByComplexNumber(ComplexNumberPolar complexNumber)
 {
-	ComplexNumberPolar complexNumberMult;
+	ComplexNumberPolar complexNumberDiv;
 
 	float angle = _angle - complexNumber.getAngleDegrees();
 
@@ -220,10 +220,10 @@ ComplexNumberPolar ComplexNumberPolar::divideByComplexNumber(ComplexNumberPolar 
 		}
 	}
 
-	complexNumberMult.setModule(_module / complexNumber.getModule());
-	complexNumberMult.setAngle(angle);
+	complexNumberDiv.setModule(_module / complexNumber.getModule());
+	complexNumberDiv.setAngle(angle);
 
-	return complexNumberMult;
+	return complexNumberDiv;
 }
 void ComplexNumberPolar::divideComplexNumbers_(ComplexNumberPolar numerator, ComplexNumberPolar denominator)
 {
